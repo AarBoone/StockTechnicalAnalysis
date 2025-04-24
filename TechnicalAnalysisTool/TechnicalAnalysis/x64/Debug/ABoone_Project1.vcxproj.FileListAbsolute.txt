@@ -1,0 +1,24 @@
+C:\Users\User\Desktop\School\Cpp\ABoone_Project1\ABoone_Project1\x64\Debug\ABoone_Project1.vcxproj.AssemblyReference.cache
+C:\Users\User\Desktop\School\Cpp\ABoone_Project1\ABoone_Project1\x64\Debug\ABoone_Project1.Form1.resources
+C:\Users\User\Desktop\School\Cpp\ABoone_Project1\ABoone_Project1\x64\Debug\ABoone_Project1.vcxproj.GenerateResource.cache
+C:\Users\User\Desktop\School\Cpp\ABoone_Project17805hbini69\ABoone_Project1\x64\Debug\ABoone_Project1.vcxproj.AssemblyReference.cache
+C:\Users\User\Desktop\School\Cpp\ABoone_Project17805hbini69\ABoone_Project1\x64\Debug\ABoone_Project1.Form_UI.resources
+C:\Users\User\Desktop\School\Cpp\ABoone_Project17805hbini69\ABoone_Project1\x64\Debug\ABoone_Project1.vcxproj.GenerateResource.cache
+H:\School\Advanced OOP\ABoone_Project17805hbini69\ABoone_Project1\x64\Debug\ABoone_Project1.vcxproj.AssemblyReference.cache
+H:\School\Advanced OOP\ABoone_Project17805hbini69\ABoone_Project1\x64\Debug\ABoone_Project1.Form_UI.resources
+H:\School\Advanced OOP\ABoone_Project17805hbini69\ABoone_Project1\x64\Debug\ABoone_Project1.vcxproj.GenerateResource.cache
+D:\School\Advanced OOP\ABoone_Project17805hbini69\ABoone_Project1\x64\Debug\ABoone_Project1.vcxproj.AssemblyReference.cache
+D:\School\Advanced OOP\ABoone_Project17805hbini69\ABoone_Project1\x64\Debug\ABoone_Project1.Form_UI.resources
+D:\School\Advanced OOP\ABoone_Project17805hbini69\ABoone_Project1\x64\Debug\ABoone_Project1.vcxproj.GenerateResource.cache
+D:\School\Advanced OOP\ABoone_Project_FixPV\ABoone_Project1\x64\Debug\ABoone_Project1.vcxproj.AssemblyReference.cache
+D:\School\Advanced OOP\ABoone_Project_FixPV\ABoone_Project1\x64\Debug\ABoone_Project1.Form_UI.resources
+D:\School\Advanced OOP\ABoone_Project_FixPV\ABoone_Project1\x64\Debug\ABoone_Project1.vcxproj.GenerateResource.cache
+D:\School\Advanced OOP\ABoone_Project2\ABoone_Project1\x64\Debug\ABoone_Project1.vcxproj.AssemblyReference.cache
+D:\School\Advanced OOP\ABoone_Project2\ABoone_Project1\x64\Debug\ABoone_Project1.Form_UI.resources
+D:\School\Advanced OOP\ABoone_Project2\ABoone_Project1\x64\Debug\ABoone_Project1.vcxproj.GenerateResource.cache
+D:\School\Advanced OOP\ABoone_Project3\ABoone_Project1\x64\Debug\ABoone_Project1.vcxproj.AssemblyReference.cache
+D:\School\Advanced OOP\ABoone_Project3\ABoone_Project1\x64\Debug\ABoone_Project1.Form_UI.resources
+D:\School\Advanced OOP\ABoone_Project3\ABoone_Project1\x64\Debug\ABoone_Project1.vcxproj.GenerateResource.cache
+H:\School\Advanced OOP\ABoone_Project3\ABoone_Project1\x64\Debug\ABoone_Project1.vcxproj.AssemblyReference.cache
+H:\School\Advanced OOP\ABoone_Project3\ABoone_Project1\x64\Debug\ABoone_Project1.Form_UI.resources
+H:\School\Advanced OOP\ABoone_Project3\ABoone_Project1\x64\Debug\ABoone_Project1.vcxproj.GenerateResource.cache
